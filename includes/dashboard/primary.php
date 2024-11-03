@@ -68,7 +68,7 @@ function wh_log($webhook_url, $msg, $un)
 }
 function error($msg)
 {
-    echo '<script src="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css"><script type=\'text/javascript\'>
+    echo '<script src="https://cdnjs.cloudflare.com/ajax/libs/notify.js/3.0.0/notify.min.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/notify.js/3.0.0/notify.min.css"><script type=\'text/javascript\'>
 
                 
 
@@ -92,7 +92,7 @@ function error($msg)
 }
 function success($msg)
 {
-    echo '<script src="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css"><script type=\'text/javascript\'>
+    echo '<script src="https://cdnjs.cloudflare.com/ajax/libs/notify.js/3.0.0/notify.min.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/notify.js/3.0.0/notify.min.css"><script type=\'text/javascript\'>
 
                 
 
